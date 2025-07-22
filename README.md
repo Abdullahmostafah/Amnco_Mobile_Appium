@@ -158,9 +158,10 @@ Contributions are welcome! Please follow these steps:
 
 Please ensure your code follows the project’s coding standards and includes relevant tests.
 
-✅ Status
+## ✅ Status
 ✔️ Just a proof of concept for a company project
 
-✍️ Author
+## ✍️ Author
 Abdullah Mostafa
+
 GitHub: @Abdullahmostafah
