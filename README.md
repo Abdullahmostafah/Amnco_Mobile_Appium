@@ -9,7 +9,7 @@ This repository contains an automation testing framework for mobile applications
 - [Running Tests](#running-tests)
 - [Desired Capabilities](#desired-capabilities)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Prerequisites
 
